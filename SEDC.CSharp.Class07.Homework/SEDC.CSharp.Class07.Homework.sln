@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.CSharp.Class07.Homework.Exercise", "SEDC.CSharp.Class07.Homework.Exercise\SEDC.CSharp.Class07.Homework.Exercise.csproj", "{A05F5423-B474-4A90-BB78-591330CBB0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes", "classes\classes.csproj", "{802F4E59-8590-4450-9C1B-40DE89BC98D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05F5423-B474-4A90-BB78-591330CBB0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05F5423-B474-4A90-BB78-591330CBB0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05F5423-B474-4A90-BB78-591330CBB0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05F5423-B474-4A90-BB78-591330CBB0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802F4E59-8590-4450-9C1B-40DE89BC98D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802F4E59-8590-4450-9C1B-40DE89BC98D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802F4E59-8590-4450-9C1B-40DE89BC98D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802F4E59-8590-4450-9C1B-40DE89BC98D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821EACD8-AE0C-4FA2-A16F-8ADDAD790B83}
+	EndGlobalSection
+EndGlobal
